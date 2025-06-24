@@ -18,6 +18,7 @@
   "author": "Paulo Felipe Silva de Souza",
   "license": "ISC",
   "dependencies": {
+    "ejs": "^0.8.8",
     "express": "4.8"
   }
 }
