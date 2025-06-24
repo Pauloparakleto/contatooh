@@ -1,0 +1,23 @@
+{
+  "name": "contatooh",
+  "version": "1.0.0",
+  "description": "Crud of contact writen with the MEAN stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "jspec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "contatooh"
+  },
+  "keywords": [
+    "mean",
+    "contatooh",
+    "node"
+  ],
+  "author": "Paulo Felipe Silva de Souza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.8"
+  }
+}
